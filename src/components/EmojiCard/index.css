@@ -1,0 +1,16 @@
+/* Write your code here. */
+li {
+  list-style: none;
+  margin: 11px;
+}
+.button {
+  background-color: #ffffff33;
+  border: 2px solid #ffffff30;
+  width: 135px;
+  height: 135px;
+  border-radius: 15px;
+}
+.emoji-img {
+  width: 85px;
+  height: 85px;
+}
